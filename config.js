@@ -156,7 +156,7 @@ const config = {
   },
   "meta": {
     "pageTitle": "Win Toronto Blue Jays Tickets - Canada Day Giveaway!",
-    "navBrandLogoText": "Sky Group",
+    "navBrandLogoText": "BLUE JAYS GIVEAWAY",
     "privacyPolicyLink": "https://www.mls.theskygroup.ca/privacy-policy"
   },
   "settings": {
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750133534142_0",
+      "id": "q_auto_1750133740847_0",
       "questionText": "Which type of local events do you enjoy attending most in Toronto?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750133534142_1",
+      "id": "q_auto_1750133740847_1",
       "questionText": "On a typical weekend, how do you prefer to spend your time?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750133534142_2",
+      "id": "q_auto_1750133740847_2",
       "questionText": "How do you typically spend your vacations?",
       "options": [
         {
@@ -246,7 +246,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750133534142_3",
+      "id": "q_auto_1750133740847_3",
       "questionText": "How involved are you in community activities or neighborhood associations?",
       "options": [
         {
