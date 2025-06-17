@@ -167,7 +167,7 @@ const config = {
       "#C8102E"
     ],
     "ghlWebhookUrl": "",
-    "theme": "pastel",
+    "theme": "light",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "showCountdownInHero": true
   },
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750133298222_0",
+      "id": "q_auto_1750133440627_0",
       "questionText": "Which type of local events do you enjoy attending most in Toronto?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750133298222_1",
+      "id": "q_auto_1750133440627_1",
       "questionText": "On a typical weekend, how do you prefer to spend your time?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750133298222_2",
+      "id": "q_auto_1750133440627_2",
       "questionText": "How do you typically spend your vacations?",
       "options": [
         {
@@ -246,7 +246,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750133298222_3",
+      "id": "q_auto_1750133440627_3",
       "questionText": "How involved are you in community activities or neighborhood associations?",
       "options": [
         {
